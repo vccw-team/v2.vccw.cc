@@ -6,6 +6,10 @@ og_image: http://vccw.cc/images/ogp.png
 description: VCCW is a Vagrant based development environment for WordPress plugins, themes, or websites.
 ---
 
+<div class="alert">
+<p>VCCW v3 is now available!<br>It is no longer supported. Please visit <a href="http://vccw.cc/">v3</a>.</p>
+</div>
+
 # Vagrant + Chef + WordPress
 
 This is a [Vagrant](http://www.vagrantup.com/) configuration designed for development of WordPress plugins, themes, or websites.
